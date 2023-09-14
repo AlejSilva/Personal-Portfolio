@@ -13,12 +13,13 @@ export const Projects = () => {
     {
       title: "Interior Design App",
       description: "For this project, I used React and Javascript to create and design an interior design app which allows you to take different objects commonly found in a house to visualize the layout of your ideal room",
-      imageUrl: projImg1,
+      imageUrl: projImg1
     },
     {
       title: "Landing Page",
       description: "In this project, I used Javascript, HTML and CSS to design a landing page template that could be used for a wide range of companies. In this project, I used my CSS skills to do most of the design elements of the landing page. Originally, I coded the styling in SCSS, which I then converted to CSS using the node-sass package from Node.js",
       imageUrl: projImg2,
+      link: "https://alejsilva.github.io/HTML-SCSS-Landing-Page/"
     },
     {
       title: "Business Startup",
