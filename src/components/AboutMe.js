@@ -24,7 +24,7 @@ export const AboutMe = () => {
     };
 
     return (
-        <section className="aboutme">
+        <section className="aboutme" id="aboutme">
             <Container>
                 <Row>
                     <div className = "aboutme-bx">
